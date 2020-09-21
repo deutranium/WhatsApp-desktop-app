@@ -8,9 +8,9 @@ Create a WhatsApp desktop webapp using a Chrome container. This can be used like
 
 Please ensure you have Chrome installed
 
-**To install Chrome:** Go to [the official website](https://www.google.com/chrome/) and download the installation file from there.
+**To install Chrome:** Go to [the official website](https://www.google.com/chrome/) and download the installation file and follow the instructions there.
 
-P.S.: Apart from Chrome, one more package known as `wmctrl` would be installed in your machine which is required for the functioning of these scripts. You can read more about it [here](https://www.freedesktop.org/wiki/Software/wmctrl/) or using the command `man wmctrl` in your terminal.
+*P.S. A package known as `wmctrl` would be installed in your machine when you follow the commands mentioned below. This would be required for the functioning of the necessary scripts. You can read more about it [here](https://www.freedesktop.org/wiki/Software/wmctrl/) or using the command `man wmctrl` in your terminal.*
 
 ## Create the application
 
