@@ -36,6 +36,10 @@ Please ensure you have Chrome and `wmctrl` installed
 
 - Please create an issue with title `BUG: <short description>` if you encounter any bugs
 
+## To Do
+
+I have a personal bias against working in Chrome and highly prefer a Firefox container instead of a Chrome one. I faced some issues while implementing the same with Firefox but would work on it once I have more time in my hands. Everyone else is also free to contribute for the same.
+
 ### Credits:
 
 WhatsApp icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
