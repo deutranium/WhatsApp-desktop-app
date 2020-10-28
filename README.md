@@ -4,6 +4,12 @@
 
 Create a WhatsApp desktop webapp using a Chrome container. This can be used like any other desktop app through the launcher with all the functionalties present in [web.whatsapp.com](https://web.whatsapp.com/)
 
+## Relevant info
+
+The functioning takes advantage of the command line options provied by `chromium` and their usage as a part of the configuration in `.desktop` file. A `.desktop` file is a simple text file which contains the meta data about any desktop application we run in an Ubuntu system.
+
+The `.desktop` file mainly has the path to the executable, which, in this case also has an `--app` option which allows us to specify the **url** the application window should open, which in this case redirects to [WhatsApp Web](https://web.whatsapp.com/)
+
 ## Requirements:
 
 Please ensure you have Chrome installed
