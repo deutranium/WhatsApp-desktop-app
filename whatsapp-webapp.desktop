@@ -10,7 +10,7 @@ Type=Application
 StartupNotify=true
 MimeType=text/plain;
 # If you want icon, type path of icon
-Icon=/home/kshitijaa/.whatsapp-desktop-webapp/logo.png
+Icon=~/.whatsapp-desktop-webapp/logo.png
 Categories=Network;Application;
 Keywords=WhatsApp;webapp;
 X-Ubuntu-Gettext-Domain=WhatsApp
